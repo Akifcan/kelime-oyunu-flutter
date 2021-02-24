@@ -1,6 +1,6 @@
 # Flutter Kelime Bulma Oyunu
 
-## Videoyu [izleyin](link)
+## Videoyu [izleyin](https://www.youtube.com/watch?v=cTS-oOiAH9M)
 
 ## Ekran Görüntüleri
 
